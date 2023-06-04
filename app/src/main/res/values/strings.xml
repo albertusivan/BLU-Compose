@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BLU_Compose</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="range_ukt">Range UKT : %d</string>
+    <string name="nama">Albertus Ivan Martino</string>
+    <string name="email">aimartino42@gmail.com</string>
+    <string name="UKT">Range UKT : %d</string>
+    <string name="profile_desc">Undergraduate Informatics Student at Telkom University</string>
+    <string name="about_page">about_page</string>
+
+</resources>
